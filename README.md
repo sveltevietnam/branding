@@ -2,7 +2,7 @@
 
 This document extends the [Svelte Branding Guidelines](https://github.com/sveltejs/branding) to public assets used by **Svelte Vietnam**.
 
-The term "Svelte Vietnam" refers to the *Svelte Vietnam project, the community moderated by this project, the [sveltevietnam.dev] website, and other projects managed by the [Svelte Vietnam Github organization][sveltevietnam.github].
+The term "Svelte Vietnam" refers to the Svelte Vietnam project, the community governed by this project, the [sveltevietnam.dev] website, and other projects managed by the [Svelte Vietnam Github organization][sveltevietnam.github].
 
 The assets presented here are intended for the [sveltevietnam.dev] site as well as events and documents organized by Svelte Vietnam. Usage other than those mentioned must be done in good faith and:
 
